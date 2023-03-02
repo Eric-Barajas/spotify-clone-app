@@ -1,3 +1,19 @@
+# A look at my Work
+
+Fake Spotify
+
+<div>
+  <img src="./img/Spotify-Clone.gif" alt="spotify clone" />
+</div>
+
+Real Spotify
+
+<div>
+  <img src="./img/real-spotify.png" alt="real spotify" />
+</div>
+
+#
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
