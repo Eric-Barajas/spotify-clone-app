@@ -2,7 +2,7 @@
 
 Fake Spotify
 
-<div>
+<div width="100%">
   <img src="./img/Spotify-Clone.gif" alt="spotify clone" />
 </div>
 
