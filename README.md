@@ -1,4 +1,47 @@
-# A look at my Work
+# 👋 Introducing `Spotify Imitation Repo`
+
+## Table of Contents
+* [Description](#Description)
+* [Features](#Features)
+* [Technologies Used](#Technologies-Used)
+* [Snapshots](#Snapshots)
+
+___
+
+## Description
+A full stack music streaming service based off of Spotify
+
+[Return to Table of Contents](#Table-of-Contents)
+
+___
+
+## Features 
+* In order to use this app must log into your spotify account, you are prompted to do so early on
+* Once signed in will display a similar looking website to your Spotify account
+* Pulling from your Spotify account once logged in will see your playlists and the tracks inside a playlist
+
+[Return to Table of Contents](#Table-of-Contents)
+
+___
+
+## Technologies Used
+* JavaScript <img align="left" alt="JavaScript" width="20px" style="padding-right:10px;" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" />
+
+* VSCode <img align="left" alt="VSCode" width="20px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
+
+* MongoDB <img align="left" alt="MongoDB" width="20px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
+
+* Express <img align="left" alt="Express" width="20px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />
+
+* BOOTSTRAP <img align="left" alt="Bootstrap" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+
+* React <img align="left" alt="React" width="20px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
+
+[Return to Table of Contents](#Table-of-Contents)
+
+___
+
+## Snapshots
 
 Fake Spotify
 
